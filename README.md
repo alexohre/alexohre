@@ -7,9 +7,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a URL shortener
-- 🌱 I’m currently learning docker
+- 🌱 I’m exploring Web3.
 - 👯 I’m looking to collaborate
-- 💬 Ask me about rails development
+- 💬 Ask me about blockchain, web3 and rails development
 - 📫 How to reach me: alex.ohre@softalx.com
 - ⚡ Fun fact: I love Development
 
