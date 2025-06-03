@@ -2,16 +2,13 @@
 
 ### Hi there 👋
 
-**alexohre/alexohre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! My name is Alex Ohre, and this repository showcases a bit about me and what I’m currently working on.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a URL shortener
-- 🌱 I’m exploring Web3.
-- 👯 I’m looking to collaborate
-- 💬 Ask me about blockchain, web3 and rails development
-- 📫 How to reach me: alex.ohre@softalx.com
-- ⚡ Fun fact: I love Development
+- 🌱 Exploring: Web3 technologies and blockchain development.
+- 🤝 Open to Collaborate: Let’s build something great together!
+- 💬 Ask Me About: Blockchain, Web3, and Ruby on Rails development.
+- 📫 Contact: alex.ohre@softalx.com
+- ⚡ Fun Fact: I’m passionate about crafting impactful digital products.
 
 ### 📊 My GitHub Stats
 ![Alex Ohre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexohre&show_icons=true&theme=dark&count_private=true)
